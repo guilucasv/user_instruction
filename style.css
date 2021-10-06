@@ -200,6 +200,9 @@ body {
 .slider .box4 button {
     background-color: #ff4e00;
 }
+.box5 a {
+    text-decoration: none;
+}
 .slider .box5 {
     background-color: #300050;
 }
