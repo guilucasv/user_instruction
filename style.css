@@ -325,7 +325,7 @@ body {
 
 
 #preloader {
-	background: #ededf5 url(https://raw.githubusercontent.com/guilucasv/user_instruction/main/loader.gif) no-repeat center center;
+	background: url(https://raw.githubusercontent.com/guilucasv/user_instruction/main/loader.gif) no-repeat center center;
 	height: 100vh;
 	width: 100%;
 	margin: 0 auto;
