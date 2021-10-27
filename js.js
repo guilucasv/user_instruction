@@ -154,3 +154,8 @@ const touchSlide = (() => {
     // call mobile on touch end
     slider.addEventListener("touchend", mobile)
 })()
+var loader = document.getElementById("preloader");
+
+window.addEventListener("load", function(){
+	loader.style.display = "none";
+})
